@@ -1,0 +1,19 @@
+body{color: #d2d636;}
+
+			.submit{
+			background-color: #62af5e;
+			color: white;
+			padding: 10px 20px;
+			border: none;}
+
+			.reset{
+			background-color: #d9544f;
+			color: white;
+			padding: 10px 20px;
+			border: none;}
+
+table, td { width:400px; padding:10px;}
+
+table, tr.FirstLast {background-color: #de8704;}
+
+table, tr {background-color: #222536;}
